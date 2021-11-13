@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron&display=swap");
+body {
+  font-family: "Orbitron", sans-serif;
+  background-color: black;
+}
+
+.timer-container {
+  background-color: chartreuse;
+  border: 5px solid gray;
+  border-radius: 2px;
+  margin-top: 19%;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 120px;
+  margin: 0;
+}
